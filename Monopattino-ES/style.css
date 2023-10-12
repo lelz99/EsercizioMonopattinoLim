@@ -1,0 +1,65 @@
+body{
+    background-image: url(immagini/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: auto;
+    margin-top: 7%;
+    width: 65%;
+}
+.conteiner{
+    background-color: rgba(0, 0, 0, 0.553);
+    border-radius: 2%;
+    padding: 10%;
+}
+
+.logo{
+    width: 25%;
+}
+
+header{
+    text-align: center;
+    color: rgb(88, 222, 16);
+    }
+
+nav{
+    background-color: rgb(88, 222, 16);
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+section> div{
+    color: white;
+    display: inline-block;
+    color: white;
+    font-size: x-large;
+    line-height: 0;
+    
+}
+
+section> p{
+    color: white;
+    line-height: 8px;
+}
+
+.livello-carica1{
+    padding: 10px;
+    background-color: rgb(226, 172, 24);
+    width: 40%;
+    border-radius: 5px;
+}
+
+.livello-carica2{
+    padding: 10px;
+    background-color: rgb(15, 188, 21);
+    width: 70%;
+    border-radius: 5px;
+}
+
+.livello-carica3{
+    padding: 10px;
+    background-color: rgb(231, 18, 25);
+    width: 20%;
+    border-radius: 5px;
+}
+
